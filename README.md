@@ -1,7 +1,6 @@
 # Single Page Application Model
 
-### A bare bones reference guide to create a client side SPA structure for your project.
+### The attached js file contains a quick, simple and lightweight pattern to add client side single page application simulation to projects that do not use a front end framework.
 
-### This is a basic JavaScript model (no framework) that can be used in conjunction with your chosen backend or just simply in front end projects. 
-
+This code is created by Steve Griffith and you can find his tutorial for this code [here](https://www.youtube.com/watch?v=wlVmmsMD28w) and his GitHub profile [here](https://gist.github.com/prof3ssorSt3v3)
 
